@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Екатерина Федотова](https://up.htmlacademy.ru/javascript/20/user/1313071).
-* Наставник: `Неизвестно`.
+* Студент: [Екатерина Федотова](https://htmlacademy.ru/profile/id1313071).
+* Наставник: [Екатерина Кащенко](https://htmlacademy.ru/profile/id109008).
 
 ---
 
